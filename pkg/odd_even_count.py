@@ -9,6 +9,13 @@
 # Listening : 
 
 # ...............................
+
+#count odd numbers and even number
+#read a maximum number
+#check odd or even with condition
+#count the number
+
+
 if __name__ == '__main__':
     even_count = 0
     odd_count = 0
