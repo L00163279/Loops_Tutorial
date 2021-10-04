@@ -21,6 +21,7 @@ if __name__ == '__main__':
 
         else:
             odd_count += 1
+            print("odd : {}".format(i))
 
 
     print("count of even number", even_count)
